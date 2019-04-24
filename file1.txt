@@ -1,3 +1,9 @@
 Mastering git in a day edited on master
 First file
 Changing file
+Change for staging
+More changes for staging
+Changes that will be reset
+This is cool stuff
+This is rad stuff
+Changing on rad stuff
