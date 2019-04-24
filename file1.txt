@@ -1,3 +1,4 @@
 Mastering git in a day
 First file
 Changing file
+Change for staging
