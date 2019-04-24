@@ -2,3 +2,6 @@ Mastering git in a day
 First file
 Changing file
 Change for staging
+More changes for staging
+Changes that will be reset
+This is cool stuff
