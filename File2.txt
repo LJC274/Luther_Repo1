@@ -1,1 +1,2 @@
 Created second file.
+I changed the file.
